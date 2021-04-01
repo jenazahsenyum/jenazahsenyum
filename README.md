@@ -1,4 +1,13 @@
-### Hi Gua Rio 👋
+### Hi Gua Rio €z (jenazah senyum)👋
+
+const themes = {
+algolia: {
+    title_color: "00AEFF",
+    icon_color: "2DDE98",
+    text_color: "FFFFFF",
+    bg_color: "050F2C",
+  },
+
 
 <!--
 **jenazahsenyum/jenazahsenyum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
