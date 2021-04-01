@@ -17,10 +17,32 @@
 
 ---
 
+<br>
+Name=Rio €z
+contacts wa.me/+15716004419
+contacts wa.me/+15714502342
+   
+
+## Stats
+
+<a href="https://github.com/Ahmadzakix"><img src="https://github-readme-stats.vercel.app/api?username=Ahmadzakix&show_icons=true&theme=radical"></a>
+
+<a href="https://github.com/Ahmadzakix"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadzakix&theme=highcontrast&layout=compact"></a>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
+<p align="center">
 
    
 
+</p>
 
+## Trophies
+
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=AhmadzakiX&row=2&column=3"/>
 
 const themes = {
 algolia: {
