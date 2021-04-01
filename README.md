@@ -3,11 +3,11 @@
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 
-&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif"alt="Designer">
+   
+
+
 
 const themes = {
 algolia: {
