@@ -19,15 +19,17 @@
 
 <br>
 Name=Rio €z
+<br>
 contacts wa.me/+15716004419
+<br>
 contacts wa.me/+15714502342
    
 
 ## Stats
 
-<a href="https://github.com/Ahmadzakix"><img src="https://github-readme-stats.vercel.app/api?username=Ahmadzakix&show_icons=true&theme=radical"></a>
+<a href="https://github.com/jenazahsenyum"><img src="https://github-readme-stats.vercel.app/api?username=jenazahsenyum&show_icons=true&theme=radical"></a>
 
-<a href="https://github.com/Ahmadzakix"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadzakix&theme=highcontrast&layout=compact"></a>
+<a href="https://github.com/jenazahsenyum"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadzakix&theme=highcontrast&layout=compact"></a>
 
 <!--START_SECTION:waka-->
 
@@ -42,7 +44,7 @@ contacts wa.me/+15714502342
 
 ## Trophies
 
-<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=AhmadzakiX&row=2&column=3"/>
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=jenazahsenyum&row=2&column=3"/>
 
 const themes = {
 algolia: {
