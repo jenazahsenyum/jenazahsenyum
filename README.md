@@ -46,10 +46,14 @@ contacts wa.me/+15714502342
 
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=jenazahsenyum&row=2&column=3"/>
 
-const themes = {
-algolia: {
-    title_color: "00AEFF",
-    icon_color: "2DDE98",
+---
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="dino">
+
+---
+
+
+
 
 
 
