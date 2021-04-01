@@ -50,9 +50,9 @@ const themes = {
 algolia: {
     title_color: "00AEFF",
     icon_color: "2DDE98",
-    text_color: "FFFFFF",
-    bg_color: "050F2C",
-  },
+
+
+
 
 
 <!--
